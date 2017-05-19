@@ -102,4 +102,4 @@ ENV/
 
 
 zappa_settings.json
-remote_env.json
+email_relay_config.json
